@@ -1,0 +1,14 @@
+NOT COVERED/NEXT
+
+- c++ basic set-up
+- cakePHP basic set-up
+- B-trees, AVL trees, suffix trees
+- Edit distance with optimal alignment
+- Genetic algorithm
+- Markov decision processes wih Bellman equations
+- Q Learning
+- PLUS assorted problems and implementations(see review)
+
+
+
+ALSO see sudoko-solver and three.js repos
